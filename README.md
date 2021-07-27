@@ -3,7 +3,7 @@
 - Assignment can be found here: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html or in the .pdf in the repository.
 
 - The project is divided into the following sections:
-- 
+
   --> Implementation of Easy21 [environment.py]
   
   --> Monte-Carlo control in Easy21 [montecarlo.py]
