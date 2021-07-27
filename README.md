@@ -14,6 +14,6 @@
   
   --> Main script to run the different algorithms [main.py]
   
-      # This file is divided into different parts: general settings, MC settings, Sarsa settings, MSE vs lambda settings, MONTE CARLO plotting, SARSA plotting.
+     This file is divided into different parts: general settings, MC settings, Sarsa settings, MSE vs lambda settings, MONTE CARLO plotting, SARSA plotting.
       
-      # For each main.py run, the unwanted sections should be commented out. Eg: For a MC run, all sections except general settings, MC settings amd MONTE CARLO plotting should be         commented out.
+     For each main.py run, the unwanted sections should be commented out. Eg: For a MC run, all sections except general settings, MC settings amd MONTE CARLO plotting should be         commented out.
